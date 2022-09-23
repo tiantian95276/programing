@@ -7,7 +7,7 @@ public static class caculate
      return a;
      else
      return b;}
-	public int minus(int a,int b)
+	public int minus(int a,int b)  //帅气的人编写的代码
 	{
 		if(a>b)
 			return a-b;
