@@ -7,5 +7,12 @@ public static class caculate
      return a;
      else
      return b;}
+	public int minus(int a,int b)
+	{
+		if(a>b)
+			return a-b;
+		else
+			return b-a;
+	}
 	
 }
