@@ -1,0 +1,5 @@
+public static class text 
+{
+ print("hello world");
+}
+
